@@ -41,4 +41,4 @@ The actual vs. predicted price scatter plot shows most predictions clustering cl
 
 ## Author
 
-Lia — CodeAlpha Data Science Intern
+Yukthika — CodeAlpha Data Science Intern
